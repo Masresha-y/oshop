@@ -3,5 +3,5 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 @import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 body {
-    padding-top: 10px;
+    padding-top: 80px;
 }
